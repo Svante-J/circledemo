@@ -1,0 +1,22 @@
+{
+  "name": "circledemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svante-J/circledemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svante-J/circledemo/issues"
+  },
+  "homepage": "https://github.com/Svante-J/circledemo#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
